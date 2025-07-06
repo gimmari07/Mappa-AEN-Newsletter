@@ -1,0 +1,98 @@
+{
+  "Bangladesh": [
+    {
+      "area": "Asia",
+      "title": "Dipendenza dal Gas Naturale per la Domanda Energetica",
+      "description": "Il Bangladesh fa affidamento sul gas naturale come fonte di transizione per soddisfare la sua crescente domanda energetica. Le opzioni rinnovabili come il solare e l'idroelettrico sono limitate dalla disponibilità di terra e dal potenziale [1].",
+      "link": ""
+    }
+  ],
+  "China": [
+    {
+      "area": "Asia",
+      "title": "Opportunità per l'Idrogeno Verde",
+      "description": "L'elevato costo dell'ammoniaca grigia in Cina",
+      "link": "dovuto ai prezzi elevati dei combustibili fossili, crea un'opportunità per l'idrogeno verde. Quest'ultimo ha costi di produzione relativamente bassi nel paese, rendendolo una soluzione promettente [1].,"
+    }
+  ],
+  "India": [
+    {
+      "area": "Asia",
+      "title": "Mercato Potenziale per l'Idrogeno Verde e l'Ammoniaca Verde",
+      "description": "L'India affronta costi elevati per l'ammoniaca grigia a causa delle costose importazioni di gas naturale",
+      "link": "il che la rende un mercato potenziale per l'idrogeno verde. I sussidi governativi potrebbero accelerare ulteriormente l'adozione dell'ammoniaca verde, con aziende indiane che cercano di esportare verso economie avanzate [2].,"
+    }
+  ],
+  "Indonesia": [
+    {
+      "area": "Asia",
+      "title": "Aumento delle Importazioni di GNL",
+      "description": "L'Indonesia",
+      "link": "tradizionalmente esportatore di gas, sta aumentando le importazioni di GNL per soddisfare la crescente domanda interna. Questo è un cambiamento strategico per il suo fabbisogno energetico e per sostenere la crescita [3].,"
+    }
+  ],
+  "Malaysia": [
+    {
+      "area": "Asia",
+      "title": "Sviluppo di Progetti di Energia a Idrogeno con Mitsubishi Power",
+      "description": "La Malesia punta alla transizione energetica con il supporto di Mitsubishi Power",
+      "link": "che sta sviluppando progetti di energia a idrogeno. Questi includono sistemi a ciclo combinato con turbina a gas integrati con fonti rinnovabili per la generazione o l'esportazione [3].,"
+    }
+  ],
+  "Singapore": [
+    {
+      "area": "Asia",
+      "title": "Decarbonizzazione del Settore Energetico con CCS e Idrogeno",
+      "description": "Singapore sta perseguendo la decarbonizzazione del settore energetico tramite la CCS e l'idrogeno",
+      "link": "con l'EMA che finanzia studi di fattibilità. YTL PowerSeraya sta costruendo una centrale elettrica a gas da 600 MW, pronta per l'idrogeno, che opererà entro la fine del 2027 [3].,"
+    }
+  ],
+  "Thailand": [
+    {
+      "area": "Asia",
+      "title": "Completamento di Impianto a Ciclo Combinato a Gas da 5.300 MW",
+      "description": "Mitsubishi Power ha completato una centrale elettrica a ciclo combinato a gas da 5.300 MW in Thailandia",
+      "link": "utilizzando otto turbine a gas M701JAC. La Thailandia sta inoltre aumentando l'uso di gas naturale per la generazione di energia, mostrando la capacità per progetti su larga scala [4].,"
+    }
+  ],
+  "Vietnam": [
+    {
+      "area": "Asia",
+      "title": "Transizione Energetica con GNL e Considerazione del Nucleare",
+      "description": "Il Vietnam sta adottando il GNL come parte della sua strategia di transizione energetica",
+      "link": "con PetroVietnam che investe 2,5 miliardi di dollari in infrastrutture di importazione. Il paese sta anche considerando l'energia nucleare nel suo piano di sviluppo per garantire la sicurezza energetica e ridurre le emissioni [4].,"
+    }
+  ],
+  "Germany": [
+    {
+      "area": "Europe",
+      "title": "Investimenti nell'Idrogeno Verde e Rete di Idrogeno",
+      "description": "La Germania si concentra sull'idrogeno verde per decarbonizzare le industrie ad alta intensità energetica",
+      "link": "approvando una rete di idrogeno da 19 miliardi di euro. Tuttavia, la mancanza di domanda sta portando a una rivalutazione degli investimenti, sebbene EnBW Energie stia lanciando la sua prima centrale a gas pronta per l'idrogeno [5].,"
+    }
+  ],
+  "Ireland": [
+    {
+      "area": "Europe",
+      "title": "Integrazione Avanzata di Energie Rinnovabili Variabili",
+      "description": "L'Irlanda ha raggiunto un livello avanzato di integrazione delle energie rinnovabili variabili nel suo sistema energetico. Il paese gestisce con successo alti livelli di energia solare ed eolica sulla sua rete elettrica nazionale [6].",
+      "link": ""
+    }
+  ],
+  "Italy": [
+    {
+      "area": "Europe",
+      "title": "Creazione di una Nuova Divisione CCS da Parte di Eni",
+      "description": "Eni sta creando una nuova divisione CCS e sta cercando investitori esterni per la sua espansione. L'azienda mira a posizionarsi come leader nella CCS in Europa",
+      "link": "collaborando con potenziali emettitori e utilizzando i propri bacini di idrocarburi esauriti [6].,"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "area": "Europe",
+      "title": "Sviluppo di Tecnologie di Cattura del Carbonio e Idrogeno",
+      "description": "Il Regno Unito sta sviluppando tecnologie di cattura del carbonio e idrogeno come parte dei suoi sforzi di decarbonizzazione. Tuttavia",
+      "link": "i finanziamenti governativi limitati sollevano dubbi sulla fattibilità e l'accelerazione di alcuni progetti [6]."
+    }
+  ]
+}
